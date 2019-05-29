@@ -2,7 +2,7 @@
 
 Creating visualization using **matplotlib** and **pygal** packages
 
-### 1. The most starred Python projects on GitHub (📁*python_repos*)
+### 1. The most starred Python projects on GitHub (📁[*python_repos*](https://github.com/mileevamaria/data-visualization/tree/master/python_repos))
 
 Interactive bar chart, built by using information from the API call:
 - the height of each bar represents the number of stars the project has acquired
@@ -13,7 +13,7 @@ Interactive bar chart, built by using information from the API call:
 
 
 
-### 2. The world's population in 2010 (📁*worldmap*)
+### 2. The world's population in 2010 (📁[*worldmap*](https://github.com/mileevamaria/data-visualization/tree/master/worldmap))
 
 Interactive map chart that shows population of each country:
 - global data downloaded from Open Knowledge Foundation and extracted from JSON format
@@ -24,7 +24,7 @@ Interactive map chart that shows population of each country:
 
 
 
-### 3. Plotting the Random Walk (📁*random_walk*)
+### 3. Plotting the Random Walk (📁[*random_walk*](https://github.com/mileevamaria/data-visualization/tree/master/random_walk))
 
 Generating data for a random walk and plotting it:
 - creating `class RandomWalk()` which makes random decisions about which direction the walk should take
