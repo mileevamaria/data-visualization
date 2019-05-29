@@ -1,5 +1,5 @@
 # data-visualization
 Visualization of data through 'matplotlib' library
 
-![Image of Most Starred Python projects on GitHub]
-(https://github.com/mileevamaria/data-visualization/blob/master/python_repos.svg?sanitize=true)
+![Alt text]
+(https://drive.google.com/open?id=1jv4zt4hHuOftJytPx0yWf34-AaRotf0h)
